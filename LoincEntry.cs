@@ -4,18 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LovelandAthena
+namespace athenaUpload
 {
-   class LoincEntry
-   {
-      public Entry entry { get; set; }
-      public string description { get; set; }
-      public string loinc { get; set; }
-      public string result { get; set; }
-      public override string ToString()
-      {
-         var d = ',';
-         return $"{entry},'{description}'{d}'{loinc}'{d}'{result}'{d}'204'";
-      }
-   }
+    class LoincEntry
+    {
+        public Entry entry { get; set; }
+        public string description { get; set; }
+        public string loinc { get; set; }
+        public string result { get; set; }
+        public override string ToString()
+        {
+            var d = ',';
+            return $"{entry},'{description}'{d}'{loinc}'{d}'{result}'{d}'152'";
+        }
+    }
 }
