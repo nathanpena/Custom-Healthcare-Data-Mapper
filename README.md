@@ -71,4 +71,4 @@ Standardizing healthcare data is crucial for interoperability, data analysis, an
 
 ## Contact
 
-For any questions or further collaboration, feel free to reach out via [Your Contact Information].
+For any questions or further collaboration, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/nathan-pena-995a7155/).
